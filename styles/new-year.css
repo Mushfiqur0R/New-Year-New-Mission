@@ -1,0 +1,100 @@
+/* common shared styles */
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* header container */
+.header-container {
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../assests/images/Banner\ Image.png');
+    /* background-size: cover;
+    background-position: center; */
+    /* background-size: 100%; */
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    margin: auto;
+    /* margin: 50px 140px 0px; */
+    /* background-color: black; */
+    /* background-color: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);  */
+    /* margin: 0 300px; */
+}
+
+.header-container-title{
+    color: #FFF;
+    
+    
+    
+}
+.header-container-mini{
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 177px;
+    /* padding: 177px 530px 383px; */
+}
+.header-container-big{
+    /* align-items: center; */
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    padding-bottom: 177px;
+    /* padding: 233px 344px 177px; */
+}
+
+/* Section title */
+
+.section-title{
+    text-align: center;
+    font-family: Inter;
+}
+.red-title{
+    color: #F00;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 120px;
+}
+.small-red-title{
+    color: #F00;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal; 
+    padding-top: 6px;
+}
+.black-title{
+    color: #070211;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 6px;
+}
+
+.section-style-img{
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin: auto;
+    padding-top: 48px;
+}
+
+/* section-2nd... */
+
+
+
+.section-2nd{
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../assests/images/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin: auto;
+}
