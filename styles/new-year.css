@@ -381,6 +381,8 @@ body{
     margin: auto;
     margin-top: 120px;
     justify-content: center;
+    margin-bottom: 120px;
+    margin-left: 140px;
 }
 
 .section-7d-paragraph{
@@ -435,3 +437,81 @@ body{
       
 
 }
+
+/* section-8d-footer...... */
+.section-8d-footer{
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+    border-top: 120px;
+}
+.section-8d-footer-text{
+    display: flex;
+    
+}
+.section-8d-footer-paragraph{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    padding-top: 120px;
+    padding-left: 140PX;
+}
+/* .section-8d-icon{
+    border:  128px 502px 457px 1074px;
+} */
+.section-8d-footer-paragraph2{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    padding-left: 500px;
+    padding-top: 120px;
+}
+.section-8d-footer-social-icon{
+    padding: 0px 896px 247px 640px;
+    /* padding-right: 640px;
+    padding-bottom: 247px;
+    padding-left: 896px; */
+    display: flex;
+    width: 64px;
+    height: 64px;
+}
+
+.footer-last-text{
+   
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    
+}
+.section-8d-footer-last{
+    display: flex;
+    gap: 700px;
+    /* padding-bottom: 30px; */
+
+}
+.p8{
+    padding-left:  140px;
+}
+
+/* Hover effect......... */
+.p9:hover {
+    background-color: rgb(126, 70, 223);
+  }
+  .section-7rd-btn:hover {
+    /* color: rgb(12, 32, 12); */
+    background-color: rgb(27, 8, 61);
+  }
+  .section-7rd-email:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(157, 217, 237);
+  }
+  .section-3rd-btn:hover{
+    background-color: rgb(223, 24, 245);
+    /* transition-delay: 2s; */
+  }
