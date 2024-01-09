@@ -441,7 +441,7 @@ body{
 /* section-8d-footer...... */
 .section-8d-footer{
     width: 1600px;
-    height: 609px;
+    height: 850px;
     background: #070211;
     border-top: 120px;
 }
@@ -473,7 +473,7 @@ body{
     padding-top: 120px;
 }
 .section-8d-footer-social-icon{
-    padding: 0px 896px 247px 640px;
+    padding: 150px 896px 247px 640px;
     /* padding-right: 640px;
     padding-bottom: 247px;
     padding-left: 896px; */
